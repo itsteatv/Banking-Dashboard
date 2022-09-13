@@ -1,7 +1,7 @@
 
 # Banking Dashboard
 
-This project is a Banking Dashboard that you can actually use it for requesting loan , transferring money to another bank account and another stuff ... 
+This project is a Banking Dashboard that you can actually use it for requesting loan , transferring money to another bank account and another things ... 
 
 
 ## Authors
